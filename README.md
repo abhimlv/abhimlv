@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abhishek Malaviya and I'm an International Student from India, currently studying Masters in Computing (Majors in Artificial Intelligence) from Dublin City University, Ireland</h2>
+<h2 align="left">Hi 👋! My name is Abhishek Malaviya and I'm an International Student from India, currently pursuing Masters in Computing (Majors in Artificial Intelligence) from Dublin City University, Ireland</h2>
 
 ###
 
