@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋! My name is Abhishek Malaviya </h1>
 <h2 align="left">  I'm an International Student from India, currently pursuing Masters in Computing (Majors in Artificial Intelligence) from Dublin City University, Ireland🧑🏻‍🎓</h2>
 <h3 align="center">Hacker Rank Python Gold Badge 🥇🏅</h3>
-[![LeetCode]]([https://linkedin.com/in/abhihmlv](https://leetcode.com/u/abhimlv/)) 
-###
+<h3 align="center">LeetCode: https://leetcode.com/u/abhimlv/</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhimlv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
