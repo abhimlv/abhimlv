@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋! My name is Abhishek Malaviya </h1>
 <h2 align="left">  I'm an International Student from India, currently pursuing Masters in Computing (Majors in Artificial Intelligence) from Dublin City University, Ireland</h2>
+<h3 align="center">Hacker Rank Python Silver Badge</h3>
 
 ###
 
