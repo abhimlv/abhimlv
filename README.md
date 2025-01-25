@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋! My name is Abhishek Malaviya </h1>
 <h2 align="left">  I'm an International Student from India, currently pursuing Masters in Computing (Majors in Artificial Intelligence) from Dublin City University, Ireland🧑🏻‍🎓</h2>
 <h3 align="center">Hacker Rank Python Gold Badge 🥇🏅</h3>
-<h3 align="center">Leetcode: https://leetcode.com/u/abhimlv/</h3>
-
+[![LeetCode]]([https://linkedin.com/in/abhihmlv](https://leetcode.com/u/abhimlv/)) 
 ###
 
 <div align="center">
