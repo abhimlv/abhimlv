@@ -99,7 +99,7 @@
 <!--- 
 <img src = "https://raw.githubusercontent.com/abhimlv/abhimlv/output/snake.svg" alt = "Snake animation"/>
 --->
-### 👀Vistors Count
+## 👀 Vistors Count:
 
 <br clear="both">
 
