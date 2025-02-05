@@ -26,7 +26,7 @@
 
 ###
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <div align="center" style="max-width: 50%; display: flex; flex-wrap: wrap;">
+    <div align="left" style="max-width: 50%; display: flex; flex-wrap: wrap;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
