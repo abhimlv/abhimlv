@@ -5,6 +5,8 @@
 </h3>
 
 <h3 align="center"><a href="https://leetcode.com/u/abhimlv/" target="_blank">LeetCode </a></h3>
+<h3 align="center"><a href="https://huggingface.co/abhimlv" target ="_blank"> Hugging Face </a></h3>
+<h3 align="center"><a href="https://app.readytensor.ai/users/abhishekhmalaviya" target ="_blank"> Ready Tensor </a></h3>
 
 <div align="center">
   <picture>
