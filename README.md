@@ -128,7 +128,9 @@
 ###
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhihmlv) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIN-darkblue)](https://linkedin.com/in/abhihmlv) 
+[![Ready Tensor](https://img.shields.io/badge/Ready%20Tensor-blue)](https://app.readytensor.ai/users/abhishekhmalaviya)
+
 
 ## 🏆 GitHub Trophies
 <picture>
